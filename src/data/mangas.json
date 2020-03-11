@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Kimetsu no Yaiba",
+        "name_url": "kimetsu_no_yaiba",
+        "name_referer_header": "kimetsu-no-yaiba"
+    },
+    {
+        "id": 2,
+        "name": "Boku no Hero Academia",
+        "name_url": "boku_no_hero_academia",
+        "name_referer_header": "boku-no-hero-academia"
+    }
+]
