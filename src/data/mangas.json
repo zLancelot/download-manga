@@ -3,12 +3,14 @@
         "id": 1,
         "name": "Kimetsu no Yaiba",
         "name_url": "kimetsu_no_yaiba",
-        "name_referer_header": "kimetsu-no-yaiba"
+        "name_referer_header": "kimetsu-no-yaiba",
+        "host": "mangas2016"
     },
     {
         "id": 2,
-        "name": "Boku no Hero Academia",
-        "name_url": "boku_no_hero_academia",
-        "name_referer_header": "boku-no-hero-academia"
+        "name": "Berserk",
+        "name_url": "berserk",
+        "name_referer_header": "berserk",
+        "host": "mangas"
     }
 ]
